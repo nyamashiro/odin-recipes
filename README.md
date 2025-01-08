@@ -1,1 +1,1 @@
-# odin-recipes
+This recipes project helped reinfornce my HTML and file/directory organizational skills. I demonstrate how to properly set up a Git repository on my local system, create appropriate files/directories, and use various html elements to create a multi page website for various recipes.
