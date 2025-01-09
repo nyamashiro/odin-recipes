@@ -1,0 +1,18 @@
+.chicken {
+  color: rgb(236, 146, 43);
+
+}
+
+.steak {
+  color: rgb(134, 49, 49);
+}
+
+.soup {
+  color: rgb(204, 42, 42);
+}
+
+
+.chicken, .steak, .soup {
+  font-weight: bold;
+  font-size: 50px;
+}
